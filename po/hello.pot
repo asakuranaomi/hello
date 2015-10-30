@@ -26,9 +26,7 @@ msgstr ""
 #: main.c:12
 #, c-format
 msgid "Orangutan has %d banana.\n"
-msgid_plural "Orangutan has %d bananas.\n"
 msgstr[0] ""
-msgstr[1] ""
 
 #: main.c:13
 #, c-format
