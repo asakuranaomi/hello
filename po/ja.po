@@ -1,14 +1,14 @@
-# Japanese translations for PACKAGE package.
-# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# Automatically generated, 2012.
+# Japanese translations for pk package.
+# Copyright (C) 2015 THE pk'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the pk package.
+# Automatically generated, 2015.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Weblate Hello World 2012\n"
-"Report-Msgid-Bugs-To: <noreply@example.net>\n"
-"POT-Creation-Date: 2012-03-14 15:54+0100\n"
-"PO-Revision-Date: 2012-03-05 15:55+0100\n"
+"Project-Id-Version: pk 22130006\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-04 10:42+0900\n"
+"PO-Revision-Date: 2015-11-04 10:42+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
