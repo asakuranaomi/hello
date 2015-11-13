@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: pk 22130006\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-11-04 10:42+0900\n"
-"PO-Revision-Date: 2015-11-04 10:42+0900\n"
+"POT-Creation-Date: 2015-11-13 12:44+0900\n"
+"PO-Revision-Date: 2015-11-13 12:44+0900\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: main.c:11
 #, c-format
-msgid "Hello, world!\n"
+msgid "What up, world!\n"
 msgstr ""
 
 #: main.c:12
