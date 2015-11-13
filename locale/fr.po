@@ -1,0 +1,33 @@
+# French translations for pk package.
+# Copyright (C) 2015 THE pk'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the pk package.
+# Automatically generated, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pk 22130006\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-29 10:47+0900\n"
+"PO-Revision-Date: 2015-10-29 10:47+0900\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: /Users/pk-22130106/Projects/od-crosssummoner-web/app/logic/AppLogic.php:17
+#: /Users/pk-22130106/Projects/od-crosssummoner-web/app/logic/AppLogic.php:21
+msgid "UnTranslated String 1"
+msgstr ""
+
+#: /Users/pk-22130106/Projects/od-crosssummoner-web/app/logic/AppLogic.php:25
+msgctxt "UnTranslated String 2"
+msgid "string_id_1"
+msgstr ""
+
+#: /Users/pk-22130106/Projects/od-crosssummoner-web/app/logic/AppLogic.php:29
+msgctxt "UnTranslated String 2"
+msgid "string_id_2"
+msgstr ""
